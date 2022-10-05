@@ -135,6 +135,7 @@ p {
   margin-top: 15px;
 }
 
+
 .german {
   float: right;
   position: relative;
@@ -144,14 +145,16 @@ p {
 }
 
 .end {
-  float: right;
+  float: center;
   position: relative;
   right: 0;
   max-width: 70%
   margin: auto;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   padding-left: 20px;
   padding-right: 15px;
+  margin-left: 170px;
+  padding-top: 20px;
 }
 
 .lasthead {
