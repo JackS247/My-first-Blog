@@ -1,0 +1,160 @@
+.one {
+  font-family: "Roboto", sans-serif;
+  display: inline-block;
+  width: auto;
+  padding-left: 20px;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: "Work Sans", sans-serif;
+  text-decoration: underline navy;
+  text-decoration-thickness: 5px;
+  text-align: left;
+  padding-left: 10px;
+  text-transform: capitalize;
+}
+
+h2 {
+  font-family: "Manrope", sans-serif;
+  text-decoration: underline navy;
+  text-decoration-thickness: 5px;
+  padding-left: 10px;
+}
+
+.brit {
+  float: right;
+  position: relative;
+  right: 0;
+  max-width: 70%;
+  margin: auto;
+  padding-bottom: 0px;
+  margin-left: 8px;
+}
+
+.container {
+  max-width: 1200px;
+  max-height: 100%;
+  bottom: 0;
+  left: 0;
+  margin: 0 auto;
+  overflow: auto;
+  right: 0;
+  top: 0;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  padding-left: 18px;
+  margin-top: 5px;
+  font-size: 18px;
+}
+
+.date {
+  color: grey;
+  margin-top: 4px;
+  font-size: smaller;
+  padding-left: 20px;
+}
+
+.author {
+  margin-bottom: 5px;
+}
+
+.two {
+  margin-bottom: 150px;
+  
+}
+
+.line {
+  border: none;
+  width: 100%;
+  margin: auto;
+  margin-top: 0%;
+  margin-bottom: 5%;
+  height: 20px;
+  background-size: 20px 20px;
+  background-color: #dc143c;
+}
+
+.heading {
+  text-align: right;
+  font-family: "Manrope", sans-serif;
+}
+
+.brita {
+  float: left;
+  position: relative;
+  right: 0;
+  max-width: 70%;
+  margin: auto;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 15px;
+}
+
+.linet {
+  border: none;
+  width: 100%;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  height: 20px;
+  background-size: 20px 20px;
+  background-color: #dc143c;
+}
+
+.navg {
+  float: right;
+  position: relative;
+  right: 0;
+  max-width: 100%;
+  margin: auto;
+  padding: 10px;
+  margin-top: 10px;
+
+  font-family: Helvetica, sans-serif;
+}
+
+.Germany {
+  margin-left: 10px;
+}
+
+.border {
+  border-top: 0.15rem solid crimson;
+  margin-left: 10px;
+}
+
+.flag {
+  float: right;
+  position: relative;
+  margin-right: 5px;
+  margin: 0, auto;
+  max-width: 100%;
+  max-height: 100%;
+  margin-top: 15px;
+}
+
+.german {
+  float: right;
+  position: relative;
+
+  margin-top: 4px;
+  padding-right: 40px;
+}
+
+.end {
+  float: right;
+  position: relative;
+  right: 0;
+  max-width: 70%
+  margin: auto;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 15px;
+}
+
+.lasthead {
+
+  margin-left: 10px; 
+}
